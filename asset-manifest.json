@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-breaking-bad-cast-reactjs/static/css/main.a5637690.chunk.css",
+    "main.js": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/main.2e2037e0.chunk.js",
+    "main.js.map": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/main.2e2037e0.chunk.js.map",
+    "runtime-main.js": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/runtime-main.6ffe133e.js",
+    "runtime-main.js.map": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/runtime-main.6ffe133e.js.map",
+    "static/js/2.1daf6ff7.chunk.js": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/2.1daf6ff7.chunk.js",
+    "static/js/2.1daf6ff7.chunk.js.map": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/2.1daf6ff7.chunk.js.map",
+    "index.html": "/praveenorugantitech-breaking-bad-cast-reactjs/index.html",
+    "static/css/main.a5637690.chunk.css.map": "/praveenorugantitech-breaking-bad-cast-reactjs/static/css/main.a5637690.chunk.css.map",
+    "static/js/2.1daf6ff7.chunk.js.LICENSE.txt": "/praveenorugantitech-breaking-bad-cast-reactjs/static/js/2.1daf6ff7.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/praveenorugantitech-breaking-bad-cast-reactjs/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/praveenorugantitech-breaking-bad-cast-reactjs/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/praveenorugantitech-breaking-bad-cast-reactjs/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ffe133e.js",
+    "static/js/2.1daf6ff7.chunk.js",
+    "static/css/main.a5637690.chunk.css",
+    "static/js/main.2e2037e0.chunk.js"
+  ]
+}
